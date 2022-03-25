@@ -1,0 +1,25 @@
+{
+  "name": "studing-jwt",
+  "version": "1.0.0",
+  "description": "studing jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "sh script.sh",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiuzanji/studing-jwt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaiuzanji/studing-jwt/issues"
+  },
+  "homepage": "https://github.com/Kaiuzanji/studing-jwt#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "node-cache": "^5.1.2"
+  }
+}
